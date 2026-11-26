@@ -44,7 +44,7 @@ public/               la web completa:
 Cloudflare Pages admite archivos de hasta 25 MB y GitHub de 100 MB, así que los instaladores **no van en el repositorio**:
 
 1. En GitHub: **Releases → Draft a new release** (etiqueta `v1.1`), arrastra `Generador_Fichas_SALAMANCA_Windows.zip`, `..._Linux.deb` y `..._Linux.AppImage`, y **Publish release**.
-2. En `public/descargas/index.html` sustituye `TU_USUARIO/TU_REPOSITORIO` por los tuyos (hay 2 enlaces). Haz `git commit` y `git push`.
+2. En `public/descargas/index.html` sustituye `salamancatutoriasonlain/GeneradordeFichas` por los tuyos (hay 2 enlaces). Haz `git commit` y `git push`.
 
 ## Imagen al compartir en redes
 
